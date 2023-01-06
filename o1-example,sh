@@ -5,7 +5,7 @@
 ls
 
 # cat user file
-cat /etc/passwd | head -2
+df -hT
 
 # grep root user from user file
-grep root /etc/passwd
+uptime
